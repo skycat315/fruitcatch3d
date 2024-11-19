@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: f0978d3cbbaa8460aa8eeca149003726
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HurdlePrefab: {instanceID: 0}
+  - StrawberryPrefab: {fileID: 2471866865306276850, guid: 6aa1b758c8daf4c3cb0b92d6756ac451,
+      type: 3}
+  - ApplePrefab: {fileID: 7971123811716265404, guid: 067b4da9a32234407805ea8a9f12986c,
+      type: 3}
+  - BananaPrefab: {fileID: 1431163341167817086, guid: 50758877b261e43e1807ca1436f201ec,
+      type: 3}
+  - GrapesPrefab: {fileID: 4255384936350260808, guid: 2ebb39753628e434d8112cc898b94edf,
+      type: 3}
+  - LemonPrefab: {fileID: 7346007863713894676, guid: dfbcc874992c848d48ec504fc8428540,
+      type: 3}
+  - CherryPrefab: {fileID: 8280409225923138220, guid: 95327dc3bb9da49fb8c56bc1024ce71d,
+      type: 3}
+  - PearPrefab: {fileID: 5533150488878418991, guid: 8ce12d2b85be74ec38db4e54d600ba22,
+      type: 3}
+  - PineapplePrefab: {fileID: 2196784658672241931, guid: 7f06f9b529e6d4769b9401721b7b4f23,
+      type: 3}
+  - OrangePrefab: {fileID: 5995121001316181839, guid: ad6255d19974643cf9ab04c662824789,
+      type: 3}
+  - KiwiPrefab: {fileID: 6109814660771204932, guid: 036c7fb95d59c46f98b4cd1a9a68dce6,
+      type: 3}
+  - WatermelonPrefab: {fileID: 7368233345839433844, guid: 0b0dd6d9b432544f7a216f0fb5307621,
+      type: 3}
+  - FishPrefab: {fileID: 1559721950408243583, guid: 6d1fa7e3e4ddb49bcb481fa9b3a119cf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

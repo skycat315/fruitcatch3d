@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4ee580479b3e44969290d8c8caa3a7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Success: {fileID: 8300000, guid: a4bc43ddd753d4f038d95a987e1e13a1, type: 3}
+  - Fail: {fileID: 8300000, guid: c5c764cbe8911445d81d213b12489f11, type: 3}
+  - Goal: {fileID: 8300000, guid: b24bca3b535f64e70bc28f3dae7dad73, type: 3}
+  - retryButton: {instanceID: 0}
+  - homeButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
